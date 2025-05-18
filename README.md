@@ -9,8 +9,8 @@ Ce projet a pour objectif de développer et d’évaluer des modèles de **Machi
 
 ## 📄 Contenu du dépôt
 
-- `Article_fr.pdf`  
-  Rapport détaillé du projet (introduction, travaux liés, méthodologie, résultats, conclusion, références).  
+- `Article_fr.pdf & Article_Ag_projet6`  
+  Rapport détaillé du projet version francais et version Anglais (introduction, travaux liés, méthodologie, résultats, conclusion, références).  
 - `Data6.csv`  
 les données brutes contenant 4 898 enregistrements et 12 variables chimiques + colonne `quality`.  
 - `projet_machine_learning_projet6.ipynb`  
