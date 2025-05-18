@@ -17,6 +17,6 @@ les données brutes contenant 4 898 enregistrements et 12 variables chimiques + 
   Notebook Jupyter :  
   - Prétraitement et nettoyage (suppression des valeurs manquantes, doublons)  
   - Analyse exploratoire (corrélations, importance des variables)  
-  - Construction et évaluation de modèles supervisés (régressions, Random Forest)  
+  - Construction et évaluation de modèles supervisés (régressions :Multiples & polyminiale, Random Forest)  
   - Classification (Random Forest Classifier : précision, rappel, F1-score)  
   - Clustering non supervisé (KMeans, évaluation par Davies-Bouldin, visualisations 2D/3D)  
